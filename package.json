@@ -1,0 +1,16 @@
+{
+  "name": "netlify-kurir-api",
+  "version": "1.0.0",
+  "description": "netlify kurir api",
+  "main": "netlify/functions/api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "akbar mansyur",
+  "license": "ISC",
+  "dependencies": {
+    "@netlify/functions": "^2.5.1",
+    "express": "^4.18.2",
+    "serverless-http": "^3.2.0"
+  }
+}
